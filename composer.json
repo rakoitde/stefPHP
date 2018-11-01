@@ -1,0 +1,18 @@
+{
+    "name": "rakoitde/stefPHP",
+    "description": "A Simple Template Engine for PHP",
+    "keywords": ["php", "template"],
+    "homepage": "https://github.com/rakoitde/stefPHP",
+    "authors": [
+        {
+            "name": "Ralf Kornberger",
+            "role": "Developer"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-0": {
+            "rakoitde\\stefPHP": "src/"
+        }
+    }
+}
